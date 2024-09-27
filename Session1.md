@@ -11,6 +11,16 @@ JavaScript (JS) is a lightweight, interpreted programming language used to creat
 
 ---
 
+**Flowchart of JavaScript Execution**:
+
+```mermaid
+flowchart TD
+    A[User Input] --> B[JavaScript Event]
+    B --> C[Execute JavaScript Code]
+    C --> D[Update Webpage]
+    D --> A
+```
+
 # 2. How and Where Can We Run JavaScript
 
 JavaScript can be run in:
@@ -133,13 +143,5 @@ str = "hello"; // Instead, you create a new string.
 
 ---
 
-**Flowchart of JavaScript Execution**:
 
-```mermaid
-flowchart TD
-    A[User Input] --> B[JavaScript Event]
-    B --> C[Execute JavaScript Code]
-    C --> D[Update Webpage]
-    D --> A
-```
 
