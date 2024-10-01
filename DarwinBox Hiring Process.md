@@ -1,3 +1,63 @@
+# Darwinbox Hiring Process (2024)
+
+### Round 1: Coding Test 1
+- **Duration**: 60 minutes
+- **Number of Questions**: 2
+- **Requirement**: 
+  - Strong problem-solving skills
+  - Proficiency in writing efficient code
+  - Focus on data structures and algorithms
+
+### Round 2: Coding Test 2
+- **Duration**: 90 minutes
+- **Number of Questions**: 2–3
+- **Requirement**: 
+  - Ability to solve more complex coding problems
+  - Demonstrate deeper understanding of algorithms and optimization techniques
+  - Handle moderate to advanced difficulty levels
+
+### Round 3: Technical Interview
+- **Requirement**: 
+  - Solid grasp of data structures and algorithms
+  - Knowledge in system design (depending on role)
+  - Experience with web development technologies (e.g., HTML/CSS, JavaScript, databases) if applying for frontend/backend roles
+
+### Round 4: HR Interview
+- **Requirement**: 
+  - Strong communication and interpersonal skills
+  - Cultural fit with the company
+  - Clarity on career goals and motivation for joining Darwinbox
+
+
+## Darwinbox Coding Assessment Format
+
+### **Coding Test 1**
+- **Duration:** 60 minutes
+- **Number of Questions:** 2 coding problems
+- **Topics Covered:**
+  - Data Structures (e.g., Arrays, Linked Lists)
+  - Algorithms (e.g., Dynamic Programming, Greedy Algorithms)
+  - String Operations
+  - SQL & Advanced SQL Queries
+  - DBMS
+
+### **Coding Test 2**
+- **Duration:** 90 minutes
+- **Number of Questions:** 2-3 coding problems
+- **Topics Covered:**
+  - Data Structures & Algorithms
+  - Dynamic Programming
+  - String Operations
+  - SQL & Advanced SQL Queries
+  - DBMS
+
+The coding tests are designed to evaluate your problem-solving skills and depth of knowledge in core computer science concepts.
+
+---
+
+For more information on Darwinbox coding test patterns, visit [PrepInsta](https://www.prepinsta.com/darwinbox/placement-paper/)&#8203;:contentReference[oaicite:0]{index=0}.
+
+
 # DarwinBox Hiring Process
 
 ## 1. Coding Contest
