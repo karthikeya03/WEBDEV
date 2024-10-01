@@ -80,3 +80,44 @@ Given two strings `str1` and `str2` where `str1` is guaranteed to be greater tha
    - Even though your primary language may be **C++**, it's good to brush up on **JavaScript basics** as DarwinBox may require you to work with front-end technologies.
    - For the backend, familiarity with **Django** is a plus, but being adaptable to other frameworks is equally important.
 3. **Behavioral Interview**: For the HR interview, focus on **soft skills** and cultural alignment with the company. This is crucial for companies like DarwinBox, which emphasize teamwork and adaptability.
+
+
+# Plan to Get Placed in Darwinbox (6-Month Preparation)
+
+## 1. **Understand Darwinbox’s Product and Domain**
+   Darwinbox is an HCM (Human Capital Management) platform, so familiarize yourself with:
+   - **HR Tech**: Learn the basics of HR software (HCM, payroll, attendance, etc.).
+   - **SaaS Platforms**: Understand how software-as-a-service (SaaS) models work in the HR domain.
+   - **Competitors**: Study companies like Workday, SAP SuccessFactors, or Oracle HCM to understand industry standards.
+
+## 2. **Technical Skills**  
+   Depending on the role (engineering, product management, etc.), focus on relevant technical areas:
+
+   ### Engineering Roles:
+   - **Programming**: Be proficient in languages like Java, Python, or Ruby.
+   - **Data Structures and Algorithms**: Practice problem-solving on platforms like LeetCode or HackerRank.
+   - **Web Development**: Learn full-stack development with frameworks such as React or Angular for front-end, and Node.js or Django for back-end.
+   - **Database Skills**: Know SQL and NoSQL databases (e.g., PostgreSQL, MongoDB).
+   - **Cloud Platforms**: Familiarize yourself with AWS or Azure for cloud infrastructure knowledge.
+  
+   ### Non-Engineering Roles:
+   - **Product Management**: Develop strong problem-solving skills, understand Agile methodologies, and learn how to gather requirements and manage product lifecycles.
+   - **Data Analysis**: Learn tools like Excel, Tableau, or Power BI, and know how to work with data.
+
+## 3. **Domain Knowledge (HR & HR Tech)**
+   - **HR Processes**: Understand recruitment, payroll, employee engagement, performance management, and leave management systems.
+   - **HR Analytics**: Study how data is used to improve HR decisions, such as retention and performance metrics.
+
+## 4. **Interview Preparation**  
+   Prepare for technical and HR interviews:
+   - **Aptitude and Coding Tests**: For technical roles, practice coding challenges on platforms like Codeforces or GeeksforGeeks.
+   - **Mock Interviews**: Practice system design interviews, behavioral interviews, and data structure problems. Use platforms like Pramp or InterviewBit.
+   - **Soft Skills**: Darwinbox values collaboration and problem-solving. Prepare answers to behavioral questions around teamwork, conflict resolution, and leadership.
+
+## 5. **Company Culture & DEI**  
+   - **Diversity and Inclusion**: Darwinbox emphasizes DEI (Diversity, Equity, and Inclusion). Familiarize yourself with how you can contribute to such an environment.
+
+## Resources
+- **LeetCode, HackerRank**: For coding practice.
+- **Glassdoor**: For interview experiences and company culture insights.
+- **LinkedIn Learning, Coursera**: For courses on HR Tech, cloud infrastructure, and SaaS products.
