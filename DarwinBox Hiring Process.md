@@ -44,8 +44,7 @@ Given an `m × n` matrix where each cell represents either an empty space (`0`),
 3. **Efficiency**: Use a visited matrix to avoid redundant calculations.
 
 
-
-![1.1](C:\Users\saisa\Desktop\1.1.png)
+![1 1](https://github.com/user-attachments/assets/1c757416-0354-49f2-b276-03ca070332cd)
 
 
 
@@ -58,8 +57,8 @@ Given an integer array `arr[]`, an integer `K` representing the length of a suba
 2. **Time Complexity**: O(n), where `n` is the size of the array.
 
 
+![2 2](https://github.com/user-attachments/assets/e44d4795-bcee-4fa4-8400-1b400cf95bd3)
 
-![2.2](C:\Users\saisa\Desktop\2.2.png)
 
 ## Question 3: Subset String Problem
 **Problem**:  
@@ -69,9 +68,7 @@ Given two strings `str1` and `str2` where `str1` is guaranteed to be greater tha
 1. **HashMap or Frequency Array**: Count the occurrences of each character in `str1` and `str2`. Ensure `str1` has at least as many occurrences of each character as `str2`.
 2. **Time Complexity**: O(n) where `n` is the length of `str1`.
 
-
-
-![3.2](C:\Users\saisa\Desktop\3.2.png)
+![3 2](https://github.com/user-attachments/assets/33494198-bb27-436f-a25f-ca00cc07dd38)
 
 ---
 
